@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 1e6379021e515f8449eb24cc59c850bc
+timeCreated: 1466661184
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bg-02_0
+    21300002: bg-02_1
+    21300004: bg-02_2
+    21300006: bg-02_3
+    21300008: bg-02_4
+    21300010: bg-02_5
+    21300012: bg-02_6
+    21300014: bg-02_7
+    21300016: bg-02_8
+    21300018: bg-02_9
+    21300020: bg-02_10
+    21300022: bg-02_11
+    21300024: bg-02_12
+    21300026: bg-02_13
+    21300028: bg-02_14
+    21300030: bg-02_15
+    21300032: bg-02_16
+    21300034: bg-02_17
+    21300036: bg-02_18
+    21300038: bg-02_19
+    21300040: bg-02_20
+    21300042: bg-02_21
+    21300044: bg-02_22
+    21300046: bg-02_23
+    21300048: bg-02_24
+    21300050: bg-02_25
+    21300052: bg-02_26
+    21300054: bg-02_27
+    21300056: bg-02_28
+    21300058: bg-02_29
+    21300060: bg-02_30
+    21300062: bg-02_31
+    21300064: bg-02_32
+    21300066: bg-02_33
+    21300068: bg-02_34
+    21300070: bg-02_35
+    21300072: bg-02_36
+    21300074: bg-02_37
+    21300076: bg-02_38
+    21300078: bg-02_39
+    21300080: bg-02_40
+    21300082: bg-02_41
+    21300084: bg-02_42
+    21300086: bg-02_43
+    21300088: bg-02_44
+    21300090: bg-02_45
+    21300092: bg-02_46
+    21300094: bg-02_47
+    21300096: bg-02_48
+    21300098: bg-02_49
+    21300100: bg-02_50
+    21300102: bg-02_51
+    21300104: bg-02_52
+    21300106: bg-02_53
+    21300108: bg-02_54
+    21300110: bg-02_55
+    21300112: bg-02_56
+    21300114: bg-02_57
+    21300116: bg-02_58
+    21300118: bg-02_59
+    21300120: bg-02_60
+    21300122: bg-02_61
+    21300124: bg-02_62
+    21300126: bg-02_63
+    21300128: bg-02_64
+    21300130: bg-02_65
+    21300132: bg-02_66
+    21300134: bg-02_67
+    21300136: bg-02_68
+    21300138: bg-02_69
+    21300140: bg-02_70
+    21300142: bg-02_71
+    21300144: bg-02_72
+    21300146: bg-02_73
+    21300148: bg-02_74
+    21300150: bg-02_75
+    21300152: bg-02_76
+    21300154: bg-02_77
+    21300156: bg-02_78
+    21300158: bg-02_79
+    21300160: bg-02_80
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 98}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bg-02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 21.5}
+        - {x: -22.5, y: 8.5}
+        - {x: -22.5, y: -27.5}
+        - {x: 27.5, y: -27.5}
+        - {x: 27.5, y: 22.5}
+        - {x: -1.5, y: 22.5}
+    - name: bg-02_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 229
+        width: 180
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: -25.5}
+        - {x: 90, y: -25.5}
+        - {x: 90, y: 20.5}
+        - {x: -90, y: 20.5}
+    - name: bg-02_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 230
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -25}
+        - {x: 20, y: -25}
+        - {x: 20, y: 8}
+        - {x: 6, y: 20}
+    - name: bg-02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 55
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 86.5}
+        - {x: -22.5, y: -86.5}
+        - {x: 27.5, y: -86.5}
+        - {x: 27.5, y: 86.5}
+    - name: bg-02_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 181
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 88}
+        - {x: -90.5, y: -88}
+        - {x: 90.5, y: -88}
+        - {x: 90.5, y: 88}
+    - name: bg-02_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 54
+        width: 45
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -88.5}
+        - {x: 19.5, y: 88.5}
+        - {x: -22.5, y: 88.5}
+        - {x: -22.5, y: -88.5}
+    - name: bg-02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 26}
+        - {x: -23, y: -12}
+        - {x: -10, y: -23}
+        - {x: 28, y: -23}
+        - {x: 28, y: 26}
+    - name: bg-02_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 177
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.5, y: 26.5}
+        - {x: -88.5, y: -23.5}
+        - {x: 88.5, y: -23.5}
+        - {x: 88.5, y: 26.5}
+    - name: bg-02_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 27}
+        - {x: -25, y: 27}
+        - {x: -25, y: -24}
+        - {x: 5, y: -24}
+        - {x: 12, y: -23}
+        - {x: 22, y: -7}
+    outline:
+    - - {x: 140, y: 280}
+      - {x: 280, y: 140}
+      - {x: 139.99998, y: 0}
+      - {x: 0, y: 140}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

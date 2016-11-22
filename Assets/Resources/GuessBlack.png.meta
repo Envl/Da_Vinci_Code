@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 4d0713b5defae13499a6c201d95e177a
+timeCreated: 1464404699
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guessBlack_0
+    21300002: guessBlack_1
+    21300004: guessBlack_2
+    21300006: guessBlack_3
+    21300008: guessBlack_4
+    21300010: guessBlack_5
+    21300012: guessBlack_6
+    21300014: guessBlack_7
+    21300016: guessBlack_8
+    21300018: guessBlack_9
+    21300020: guessBlack_10
+    21300022: guessBlack_11
+    21300024: guessBlack_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: guessBlack_0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 415
+        width: 158
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 122.5}
+        - {x: -79, y: 118.5}
+        - {x: -79, y: -119.5}
+        - {x: -75, y: -122.5}
+        - {x: 71, y: -122.5}
+        - {x: 79, y: -114.5}
+        - {x: 79, y: 119.5}
+        - {x: 77, y: 122.5}
+    - name: guessBlack_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 480
+        width: 155
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.5, y: 117}
+        - {x: 72.5, y: 122}
+        - {x: -75.5, y: 122}
+        - {x: -77.5, y: 120}
+        - {x: -77.5, y: -120}
+        - {x: -74.5, y: -122}
+        - {x: 73.5, y: -122}
+        - {x: 77.5, y: -118}
+    - name: guessBlack_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 435
+        width: 153
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 122}
+        - {x: -74.5, y: 122}
+        - {x: -76.5, y: 120}
+        - {x: -76.5, y: -119}
+        - {x: -73.5, y: -122}
+        - {x: 73.5, y: -122}
+        - {x: 76.5, y: -120}
+        - {x: 76.5, y: 118}
+    - name: guessBlack_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 414
+        width: 156
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 122}
+        - {x: -72, y: 122}
+        - {x: -78, y: 116}
+        - {x: -78, y: -118}
+        - {x: -74, y: -122}
+        - {x: 75, y: -122}
+        - {x: 78, y: -119}
+        - {x: 78, y: 119}
+    - name: guessBlack_4
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 467
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 119}
+        - {x: 75, y: 123}
+        - {x: -70, y: 123}
+        - {x: -79, y: 114}
+        - {x: -79, y: -120}
+        - {x: -77, y: -122}
+        - {x: -76, y: -122}
+        - {x: -75, y: -123}
+        - {x: 75, y: -123}
+        - {x: 79, y: -119}
+    - name: guessBlack_5
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 461
+        width: 160
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -119}
+        - {x: 80, y: 121}
+        - {x: 78, y: 124}
+        - {x: -70, y: 124}
+        - {x: -73, y: 121}
+        - {x: -80, y: 116}
+        - {x: -80, y: -120}
+        - {x: -76, y: -124}
+        - {x: 68, y: -124}
+        - {x: 70, y: -122}
+        - {x: 75, y: -122}
+    - name: guessBlack_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 138
+        width: 157
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: 121.5}
+        - {x: 75.5, y: 124.5}
+        - {x: -70.5, y: 124.5}
+        - {x: -73.5, y: 121.5}
+        - {x: -75.5, y: 120.5}
+        - {x: -78.5, y: 116.5}
+        - {x: -78.5, y: -117.5}
+        - {x: -77.5, y: -121.5}
+        - {x: -74.5, y: -124.5}
+        - {x: 71.5, y: -124.5}
+        - {x: 76.5, y: -119.5}
+        - {x: 76.5, y: -115.5}
+        - {x: 78.5, y: -113.5}
+    - name: guessBlack_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 151
+        width: 154
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 124}
+        - {x: -71, y: 124}
+        - {x: -77, y: 119}
+        - {x: -77, y: -122}
+        - {x: -76, y: -124}
+        - {x: 74, y: -124}
+        - {x: 76, y: -122}
+        - {x: 77, y: -119}
+        - {x: 77, y: 121}
+    - name: guessBlack_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 110
+        width: 154
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 118}
+        - {x: 74, y: 123}
+        - {x: 71, y: 124}
+        - {x: -74, y: 124}
+        - {x: -77, y: 121}
+        - {x: -77, y: -119}
+        - {x: -72, y: -124}
+        - {x: 74, y: -124}
+        - {x: 77, y: -120}
+    - name: guessBlack_9
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 128
+        width: 156
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 122.5}
+        - {x: -75, y: 122.5}
+        - {x: -78, y: 119.5}
+        - {x: -78, y: -114.5}
+        - {x: -76, y: -116.5}
+        - {x: -76, y: -118.5}
+        - {x: -72, y: -122.5}
+        - {x: 75, y: -122.5}
+        - {x: 78, y: -120.5}
+        - {x: 78, y: 117.5}
+    - name: guessBlack_10
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 153
+        width: 158
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 120.5}
+        - {x: 76, y: 122.5}
+        - {x: -75, y: 122.5}
+        - {x: -79, y: 120.5}
+        - {x: -79, y: -115.5}
+        - {x: -72, y: -122.5}
+        - {x: 77, y: -122.5}
+        - {x: 79, y: -119.5}
+        - {x: 79, y: 117.5}
+    - name: guessBlack_11
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 168
+        width: 160
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 122.5}
+        - {x: -75, y: 122.5}
+        - {x: -79, y: 119.5}
+        - {x: -79, y: 118.5}
+        - {x: -80, y: 117.5}
+        - {x: -80, y: -116.5}
+        - {x: -75, y: -121.5}
+        - {x: -70, y: -121.5}
+        - {x: -69, y: -122.5}
+        - {x: 76, y: -122.5}
+        - {x: 80, y: -118.5}
+        - {x: 80, y: 118.5}
+    - name: guessBlack_12
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 187
+        width: 163
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: 122.5}
+        - {x: -68.5, y: 122.5}
+        - {x: -69.5, y: 121.5}
+        - {x: -75.5, y: 120.5}
+        - {x: -78.5, y: 119.5}
+        - {x: -81.5, y: 115.5}
+        - {x: -81.5, y: -119.5}
+        - {x: -78.5, y: -122.5}
+        - {x: 77.5, y: -122.5}
+        - {x: 81.5, y: -118.5}
+        - {x: 81.5, y: 117.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
