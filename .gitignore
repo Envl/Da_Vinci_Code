@@ -1,0 +1,15 @@
+﻿# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Folders:
+Library
+obj
+pc_Data
+*.csproj
+*.apk
+*sln
+*.userprefs
+*.pdb
+*.exe
