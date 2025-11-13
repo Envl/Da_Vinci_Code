@@ -1,0 +1,26 @@
+# Godot
+.import/
+export.cfg
+export_presets.cfg
+.mono/
+data_*/
+mono_crash.*.json
+*.translation
+
+# Durable Objects / Node
+node_modules/
+.env
+.dev.vars
+dist/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

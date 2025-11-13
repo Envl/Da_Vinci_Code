@@ -1,0 +1,13 @@
+name = "davinci-code"
+main = "src/index.ts"
+compatibility_date = "2024-11-13"
+compatibility_flags = ["nodejs_compat"]
+
+[[durable_objects.bindings]]
+name = "GAME_ROOM"
+class_name = "GameRoom"
+script_name = "davinci-code"
+
+[[migrations]]
+tag = "v1"
+new_classes = ["GameRoom"]
