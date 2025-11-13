@@ -13,6 +13,7 @@ node_modules/
 .dev.vars
 dist/
 *.log
+.wrangler/
 
 # IDE
 .vscode/
